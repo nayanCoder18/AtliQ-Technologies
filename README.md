@@ -117,3 +117,9 @@ ________________________________________________________________________________
  - **Data Simulation:** AtliQ Hospitality case dataset.
 
  - **Inspiration:** Real-world business intelligence projects in the hospitality industry.
+
+_________________________________________________________________________________________________________________
+
+### Dashboard
+
+<img width="1417" height="836" alt="AtliQ Technologies" src="https://github.com/user-attachments/assets/8078092e-53c1-45a9-9180-56f1d98a3af0" />
